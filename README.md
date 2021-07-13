@@ -2,7 +2,19 @@
 
 ## Motivation Behind the Project 
 
-This project has been developed as a part of the **Microsoft Engage Mentorship Program 2021**. The soul purpose of this project was to make the group video call experience more comfortable for the end user keeping in mind a good and easy user interface, smooth experience and easy to connect. This project has been made possible by NodeJS, Javascript, ExpressJS, HTML, CSS, WebRTC, PeerJS and Socket IO. This project definitely made me step out of my comfort zone. Being a Game Developer and an Augmented Reality Developer, the concept of websites was very new to me and hence I initially decided to stick to my gaming engine and make a video call app but after talking to my amazing mentors : **Swarandeep Sir** and **Abhilekh Sir**, I made up my mind to challenge myself and learn a new technology along with making this project. 
+This project has been developed as a part of the **Microsoft Engage Mentorship Program 2021**. The sole purpose of this project was to make the group video call experience more comfortable for the end user keeping in mind a good and easy user interface, smooth experience and easy to connect. This project has been made possible by NodeJS, Javascript, ExpressJS, HTML, CSS, WebRTC, PeerJS and SocketIO. This project definitely made me step out of my comfort zone. Being a Game Developer and an Augmented Reality Developer, the concept of websites was very new to me and hence I initially decided to stick to my gaming engine and make a video call app but after talking to my amazing mentors : **Swarandeep Sir** and **Abhilekh Sir**, I made up my mind to challenge myself and learn a new technology along with making this project. 
+
+## Agile Sprints 
+1. Week 1 & 2 : Proof of Concept & Research and Development
+  -> I took some time to go through resources figure out exactly what I want and how can I implement this before starting the project. I had a list of features laid out to me so that I know what I'm doing.
+
+2. Week 3 : Completing the first draft and testing it out
+  -> As I knew what I wanted with the project and I had all the features and how to implement them laid out in front of me it was pretty easy to figure my way out in order to complete the basic draft and test the project after every small feature that I added. 
+
+3. Week 4 : Adding few pre-planned features and Adapt feature
+  -> This sprint was a little difficult as I gave myself less time than I should have for the amount of things I planned. So I basically finished adding 2-3 external features in the first 2 days of the sprint and used rest of them on the Adapt feature.
+  
+Hadn't it been for Agile, I am pretty sure the management wouldn't have been this great and I may not have pushed myself to the extents that I did. Definitely, a huge thanks to the mentors for always challenging me when I was losing hope because it gave me immense motivation and my team mates for helping me out when I was stuck even though we had to be evaluated individually, the team spirit kept us all motivated.
 
 ## Features
 1. Unique room ID's for every meeting or chat
@@ -33,7 +45,7 @@ Learning a new technology and coming up with an industrial project brings along 
 
 1. Learning and adapting a foreign concept. Being an Augmented Reality Developer the way of implementation and process is very different from developing websites, so I had to reasearch and go over 4-5 tutorials to find out the flow of work, list down all the necessities and find resources which could help me understand what exactly was I implementing.
 2. Documenting and making notes for every statement I found online related to the code so that I am 100% sure of what each statement is doing because learning experience definitely matters more.
-3. Understanding frontend and backend and how to link them together. I did have a basic knowledge of HTML and CSS so building a frontend design was not that much of a task but this was the first time I used firebase and implemented a real-time database to link the chat perfectly.
+3. Understanding frontend and backend and how to link them together. I did have a basic knowledge of HTML and CSS so building a frontend design was not that much of a task but this was the first time I used firebase and implemented a real-time database to link the chat perfectly which was quite tiresome but pushed me out of boundaries to explore more.
 4. I wasn't able to link 2 socket connections in 1 server and since my chat app and video call app were based on 2 different sockets and it was difficult to understand how to make it work I had no other option so I switched them to 2 individual projects and linked them via the redirecting page code.     
 5. Authentication. Having security and authentication in the code is really important and I was trying to link authentication via firebase but it was a little tricky to understand and given the time constraint I prioritised the adapt feature over authentication.
 
